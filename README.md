@@ -7,6 +7,7 @@ The AI Developer Toolset plugin enables you to seamlessly integrate AI features 
 In future, it will be enhanced to work with most of the known Eclipse based development objects. The AI Developer Toolset plugin will help you create innovative applications that can automate manual tasks, make smarter business decisions, and provide more personalized customer experiences
 
 The plugin is in experimental stage. It will be refined in newer versions as we receive more feedbacks.
+More Info can be found in this blog : https://blogs.sap.com/2023/10/24/a-cool-use-of-open-ai-in-eclipse/
 
 ## Prerequisites
 An Azure subscription  https://azure.microsoft.com/en-us/free/ai-services/
